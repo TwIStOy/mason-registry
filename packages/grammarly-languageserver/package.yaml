@@ -11,7 +11,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:npm/grammarly-languageserver@0.0.4
+  id: pkg:npm/@emacs-grammarly/grammarly-languageserver@0.2.1
 
 schemas:
   lsp: vscode:https://raw.githubusercontent.com/znck/grammarly/main/extension/package.json
